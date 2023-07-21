@@ -1,0 +1,22 @@
+# steps:    
+    $  npm init -y
+
+
+    // ts config
+        $ npx tsc --init
+
+    //= dependencies
+        $ npm i express
+
+    //= dev dependencies
+
+        $  npm i -D typescript ts-node nodemon
+
+    
+
+    => build ts to js
+
+    => run the project  
+        $ npm run dev // dev mode
+
+        $ npm start // production mode
