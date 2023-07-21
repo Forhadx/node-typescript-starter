@@ -10,7 +10,12 @@
 
     //= dev dependencies
 
-        $  npm i -D typescript ts-node nodemon
+        $  npm i -D 
+                    typescript 
+                    ts-node 
+                    nodemon 
+                    @types/express
+                    @types/node
 
     
 
