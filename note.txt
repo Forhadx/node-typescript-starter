@@ -6,17 +6,11 @@
         $ npx tsc --init
 
     //= dependencies
-        $ npm i express
+        $ npm i express body-parser compression cors lodash mongoose cookie-parser
 
     //= dev dependencies
 
-        $  npm i -D 
-                    typescript 
-                    ts-node 
-                    nodemon 
-                    @types/express
-                    @types/node
-
+        $  npm i -D typescript ts-node nodemon @types/express @types/node  @types/body-parser @types/compression @types/cors @types/lodash @types/mongoose @types/cookie-parser
     
 
     => build ts to js
